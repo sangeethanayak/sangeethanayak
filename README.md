@@ -2,7 +2,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 <div align="center">
-  [ LinkedIN](https://www.linkedin.com/in/sangeetha-nayak-340128247/)
+  
   <h4 align="center">Top languages</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeethanayak&langs_count=10&theme=tokyonight&layout=compact" alt="sangeethanayak :: Top Langs" /></p>
