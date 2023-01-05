@@ -27,7 +27,7 @@
     <a href="https://instagram.com/_i_sangeetha" target="_blank">
     <img src="https://www.svgrepo.com/show/134478/instagram.svg" height="40px" alt="Instagram"/>
     </a>&nbsp;&nbsp;
-     <a href="https://t.me/sangeetha333" target="_blank">
+     <a href="https://t.me/@sangeetha333" target="_blank">
     <img src="https://www.svgrepo.com/show/65315/telegram.svg" height="40px" alt="Telegram"/>
     </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/sangeetha-nayak-340128247/" target="_blank">
