@@ -5,7 +5,7 @@
 <p>I'm a 20 year old Undergrad student pursuing Bachelor's degree in the field of Electronics and Communication from N.M.A.M. Institute of Technology, Nitte. Passionate about creating and learning new things and yeah, I can handle multiple tasks at a time.</p>
 <br>
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=sangeethanayak&left_color=darkgreen&right_color=black)-->
-![](https://komarev.com/ghpvc/?username=sangeethanayak&color=brightgreen)
+<!--![](https://komarev.com/ghpvc/?username=sangeethanayak&color=brightgreen)-->
 <h2 align="left">Languages</h2>
 <p align="center">
 <img src="https://www.svgrepo.com/show/303480/c-logo.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
