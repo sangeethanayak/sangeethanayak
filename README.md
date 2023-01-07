@@ -2,8 +2,8 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 <br>
-<p>I'm a 20 year old Undergrad student pursuing Bachelor's degree in the field of Electronics and Communication from N.M.A.M. Institute of Technology, Nitte. Passionate about creating and learning new things and yeah, I can handle multiple tasks at a time.</p>
-<br>
+<p>I'm an Undergrad student pursuing Bachelor's degree in the field of Electronics and Communication from N.M.A.M. Institute of Technology, Nitte. Passionate about creating and learning new things and yeah, I can handle multiple tasks at a time.</p>
+</br>
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=sangeethanayak&left_color=darkgreen&right_color=black)-->
 <!--![](https://komarev.com/ghpvc/?username=sangeethanayak&color=brightgreen)-->
 <h2 align="left">Languages</h2>
@@ -14,6 +14,15 @@
 <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/374016/python.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+<h2 align="left">Tech and Tools</h2>
+<p align="center">
+<img src="https://www.svgrepo.com/show/373830/matlab.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/312259/github.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 <div align="center">
  
 <h2 align="left">Top languages</h4>
