@@ -4,8 +4,7 @@
 <br>
 <p>I'm an Undergrad student pursuing Bachelor's degree in the field of Electronics and Communication from N.M.A.M. Institute of Technology, Nitte. Passionate about creating and learning new things and yeah, I can handle multiple tasks at a time.</p>
 </br>
-<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=sangeethanayak&left_color=darkgreen&right_color=black)-->
-<!--![](https://komarev.com/ghpvc/?username=sangeethanayak&color=brightgreen)-->
+
 <h2 align="left">Languages</h2>
 <p align="center">
 <img src="https://www.svgrepo.com/show/303480/c-logo.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,9 +40,6 @@
     <a href="https://instagram.com/_i_sangeetha" target="_blank">
     <img src="https://www.svgrepo.com/show/134478/instagram.svg" height="40px" alt="Instagram"/>
     </a>&nbsp;&nbsp;
-     <a href="https://t.me/@sangeetha333" target="_blank">
-    <img src="https://www.svgrepo.com/show/65315/telegram.svg" height="40px" alt="Telegram"/>
-    </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/sangeetha-nayak-340128247/" target="_blank">
     <img src="https://www.svgrepo.com/show/134579/linkedin.svg" height="40px"/>
     </a>&nbsp;&nbsp;
@@ -53,14 +49,4 @@
 <!--
 **sangeethanayak/sangeethanayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
