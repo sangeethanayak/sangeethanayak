@@ -26,10 +26,9 @@
 <div align="center">
  
 <h2 align="left">Top languages</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeethanayak&langs_count=10&theme=tokyonight&layout=compact" alt="sangeethanayak :: Top Langs" /></p>
-  
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeethanayak&layout=compact"></p>
 <h2 align="left">Profile stats</h4>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangeethanayak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sangeetha's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangeethanayak&show_icons=true&theme=tokyonight"></p>
 </br></br>
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=sangeethanayak" width = 400>
 </div>
