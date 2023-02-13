@@ -45,11 +45,13 @@
     <img src="https://www.svgrepo.com/show/223047/gmail.svg" height="40px" alt="mail"/>
     </a>&nbsp;&nbsp;
     <a href="https://instagram.com/_i_sangeetha" target="_blank">
-    <img src="https://www.svgrepo.com/show/134478/instagram.svg" height="40px" alt="Instagram"/>
+    <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" height="40px" alt="Instagram"/>
     </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/sangeetha-nayak-340128247/" target="_blank">
-    <img src="https://www.svgrepo.com/show/134579/linkedin.svg" height="40px"/>
+    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" height="40px"/>
     </a>&nbsp;&nbsp;
+    <a href="http://discordapp.com/users/1060288453906018387/" target="_blank">
+     <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="40px" alt="Discord"/>
     
 </p>
 
