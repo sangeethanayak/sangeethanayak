@@ -5,7 +5,7 @@
 <p>I'm an Undergrad student pursuing Bachelor's degree in the field of Electronics and Communication from N.M.A.M. Institute of Technology, Nitte. Passionate about creating and learning new things and yeah, I can handle multiple tasks at a time.</p>
 </br>
 <a href= "https://www.linkedin.com/in/sangeetha-nayak-340128247/">LinkedIn | </a>
-<a href="https://drive.google.com/file/d/1_X8n_kU5it5MYu16x6iFGHfGjrLehBlJ/view">Resume </a>
+<a href= "https://drive.google.com/file/d/1UI70jR_aohmzKE0KsaX6-BJvKwIb3nUi/view">Resume </a>
 
 <h2 align="left">Languages</h2>
 <p align="center">
