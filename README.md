@@ -4,7 +4,8 @@
 <br>
 <p>I'm an Undergrad student pursuing Bachelor's degree in the field of Electronics and Communication from N.M.A.M. Institute of Technology, Nitte. Passionate about creating and learning new things and yeah, I can handle multiple tasks at a time.</p>
 </br>
-<a href= "https://www.linkedin.com/in/sangeetha-nayak-340128247/">LinkedIn</a>
+<a href= "https://www.linkedin.com/in/sangeetha-nayak-340128247/">LinkedIn | </a>
+<a href="https://drive.google.com/file/d/1_X8n_kU5it5MYu16x6iFGHfGjrLehBlJ/view">Resume </a>
 
 <h2 align="left">Languages</h2>
 <p align="center">
@@ -13,18 +14,20 @@
 <img src="https://www.svgrepo.com/show/349330/css3.svg"  height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/374016/python.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://www.svgrepo.com/show/373830/matlab.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <h2 align="left">Frameworks, Libraries and Databases</h2>
 <p align="center">
 <img src="https://www.svgrepo.com/show/355190/reactjs.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://www.svgrepo.com/show/452075/node-js.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/88571833/190920486-b3bdd188-056d-4cbc-9bcc-4e7b6254df74.png" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2 align="left">Tech and Tools</h2>
 <p align="center">
 <img src="https://www.svgrepo.com/show/373623/git.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/373830/matlab.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/312259/github.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
