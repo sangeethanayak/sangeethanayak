@@ -4,7 +4,7 @@
 <p>I'm an Undergrad student pursuing Bachelor's degree in the field of Electronics and Communication from N.M.A.M. Institute of Technology, Nitte. Passionate about creating and learning new things and yeah, I can handle multiple tasks at a time.</p>
 
 <a href= "https://www.linkedin.com/in/sangeetha-nayak-340128247/">LinkedIn </a> |
-<a href= "https://drive.google.com/file/d/1UI70jR_aohmzKE0KsaX6-BJvKwIb3nUi/view">Resume </a> | 
+<a href= "https://drive.google.com/file/d/1a9TFqiNbsVvz3we_K92FlnovVF1Byhra/view">Resume </a> | 
 <a href = "https://sangeethanayak.vercel.app/">Portfolio </a>
 
 ![](https://komarev.com/ghpvc/?username=sangeethanayak&color=blue)
