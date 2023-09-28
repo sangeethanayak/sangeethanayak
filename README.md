@@ -1,13 +1,16 @@
 <div align="center">
   <h2>𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 &lt;𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/&gt;</h2>
+ 
   <p>I'm a self-taught skilled front-end web developer who loves to work with HTML, CSS, JavaScript, and having expertise in frameworks like ReactJS and NodeJS. Apart from these I've expertise in programming languages like C/C++, Python, Matlab and tools like Cadence. I'm a quick learner and collaborate closely with teammates to create efficient, scalable, and user-friendly solutions that solve real-world problems. And yeah! capable of multi-tasking too :)
 </p>
 
   [LinkedIn](https://www.linkedin.com/in/sangeetha-nayak-340128247/) |
   [Resume](https://drive.google.com/file/d/1gtJRdSu90AOGpOEPnAGeyUxGIy1fBrfY/view) |
   [Portfolio](https://sangeethanayak.vercel.app/)
-
+  
   ![](https://komarev.com/ghpvc/?username=sangeethanayak&color=blue)
+  [![An image of @sangeethanayak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sangeethanayak)](https://holopin.io/@sangeethanayak)
+  
 
   <h2 align="left">Languages</h2>
   <p align="center">
